@@ -2014,7 +2014,7 @@
 
 			#nav {
 				position: absolute;
-				display: block;
+				display: none;
 				top: 2.5em;
 				left: 0;
 				width: 100%;
