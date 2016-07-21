@@ -149,6 +149,7 @@ $(document).ready(function(){
     autoplay: true,
     slidesToShow: 1,
     slidesToScroll: 1,
+    adaptiveHeight: true
 
   });
 });
